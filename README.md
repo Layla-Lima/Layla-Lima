@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Oi, eu sou a Layla!👋</h1>
+<h3 align="center">Futura Analista de Dados</h3>
 
-<!--
-**Layla-Lima/Layla-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✏️ Atualmente aprendendo **Python para Analise de Dados e Power BI**
 
-Here are some ideas to get you started:
+- ⚙️ Conhecimento em **Excel e MySQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h3 align="left">Meu Linkedin:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/laylalima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laylalima/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
