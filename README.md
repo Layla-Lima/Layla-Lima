@@ -1,9 +1,9 @@
 <h1 align="center">Oi, eu sou a Layla!👋</h1>
 <h3 align="center">Futura Analista de Dados</h3>
 
-- ✏️ Atualmente aprendendo **Python para Analise de Dados e Power BI**
+- ✏️ Atualmente aprendendo **Excel e Power BI**
 
-- ⚙️ Conhecimento em **Excel e MySQL**
+- ⚙️ Conhecimento em **Python para Analise de Dados e MySQL**
 
 
 
