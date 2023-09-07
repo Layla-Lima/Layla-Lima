@@ -1,10 +1,9 @@
 <h1 align="center">Oi, eu sou a Layla!👋</h1>
-<h3 align="center">Estudante Apaixonada por Tecnologia e Futura Profissional de TI</h3>
+<h3 align="center">Estudante em constante aprendizado!</h3>
 
 <p align="center">
   📚 Atualmente estudando <strong>Java</strong> e <strong>C</strong><br>
   🎓 Cursando Análise e Desenvolvimento de Sistemas<br>
-  🔍 Procurando oportunidades para desenvolver minhas habilidades na área de TI
 </p>
     <br><br>
 
@@ -13,12 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=layla-lima&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Layla"/>
 </p>
 
-<h3 align="left">Meu Linkedin:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/laylalima/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laylalima/" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
