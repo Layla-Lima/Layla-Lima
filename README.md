@@ -4,16 +4,17 @@
   📚 Atualmente estudando <strong>Java</strong> e <strong>C</strong><br>
   🎓 Cursando Análise e Desenvolvimento de Sistemas<br>
 </p>
-    <br><br>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=layla-lima&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Layla"/>
-</p>
-
+  
+  <!-- GitHub Stats -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=layla-lima&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Layla"/>
+  </p>
+</body>
+</html>
 
 <!-- Front-end -->
-  <br><br>
+
   <h3 align="left">Linguagens e Ferramentas de Front-end:</h3>
   <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
@@ -50,10 +51,4 @@
   </a>
 
 <br>
-  
-  <!-- GitHub Stats -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=layla-lima&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Layla"/>
-  </p>
-</body>
-</html>
+
