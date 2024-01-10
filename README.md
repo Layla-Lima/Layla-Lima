@@ -5,15 +5,14 @@
   🎓 Cursando Análise e Desenvolvimento de Sistemas<br>
 </p>
 
-  
-<!-- GitHub Stats -->
-<div  align="center" style="margin-bottom:100px">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LaysaSilva&theme=radical&mode=weekly" />
-  <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaysaSilva&layout=compact&theme=radical" />
-</div>
+<!-- GitHub Stats e Top Languages com borda -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=layla-lima&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Layla" style="border: 1px solid #ebedf0" />
+</p>
 
-&nbsp;
-&nbsp;
+<p align="center">
+  <img alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layla-lima&layout=compact&theme=radical" style="border: 1px solid #ebedf0" />
+</p>
 
 #### Linguagens e Ferramentas:
 
