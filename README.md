@@ -5,15 +5,13 @@
   🎓 Cursando Análise e Desenvolvimento de Sistemas<br>
 </p>
 
-<!-- GitHub Stats e Top Languages com borda -->
+<!-- GitHub Stats e Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=layla-lima&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Layla" style="border: 1px solid #ebedf0" />
 </p>
 
 
-<p align="center">
-  <img alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layla-lima&layout=compact&theme=radical" style="border: 1px solid #ebedf0" />
-</p>
+
 
 #### Linguagens e Ferramentas:
 
