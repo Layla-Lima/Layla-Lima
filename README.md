@@ -2,7 +2,7 @@
 
 <p align="center">
   📚 Atualmente estudando <strong>C#</strong><br>
-  🎓 Cursando Análise e Desenvolvimento de Sistemas<br>
+  🎓 Cursando Sistemas de Informação<br>
 </p>
 
 <!-- GitHub Stats e Top Languages -->
